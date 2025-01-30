@@ -6,7 +6,7 @@ present threat to our national security, and to global civilization.
 ## Input must be perfectly preserved for deterministic reproducible AI output
 
 Traditional software systems involved the compilation or interpretation of code
-which handled the manipulation of data. The code is made accountable by the
+which handles the manipulation of data. The code is made accountable by the
 virtue of software version control repository systems. If the behavior of a
 website or web-service is inconsistent with expectations or what was intended,
 the developers are tasked with fixing the bug. Often the bug (a logical fault
