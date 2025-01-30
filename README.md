@@ -4,7 +4,7 @@ A Special Purpose DAO for the AtomOne Hub for Securing Humanity's Future.
 
 ## Policy Recommendations
 
- * [Reproducible Artificial Intelligence](proposals/001-reproducible-ai.md) - draft proposal phase
+ * [Reproducible Artificial Intelligence](WIP/001-reproducible-ai.md) - WIP draft phase
 
 ## Contact Us
 
