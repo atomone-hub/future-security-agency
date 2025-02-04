@@ -107,7 +107,7 @@ like chicken farmers globally paying taxes in the form of hatched chicks to the
 few staking farmers for the service of staking; where a high staking ratio
 means most of the hated chicks distributed were paid back to the farmer that
 actually created them. To see how the math is skewed unreasonably against the
-high staking ratio farmer, see the blog post "Atom Must Not Be Money" which
+high staking ratio farmer, see the blog post ["Atom Must Not Be Money"](https://allinbits.com/blog/nwv-to-prop-848-atom-must-not-be-money/) which
 shows that for a 30% annual staking reward, 8.33% corresponds to a transfer
 from non-stakers, whereas a whopping (30 - 8.33) = 21.67% corresponds to self
 creation, which is 72.22% of the total rewards.
@@ -157,6 +157,8 @@ and participate in their staking security.
   mental exercise and real potential workaround demonstrates the illogical
   nature of the IRS's current position that all staking tokens are to be
   treated as income.
+
+ * see also https://allinbits.com/blog/nwv-to-prop-848-atom-must-not-be-money/
 
 
 -- All in Bits, Inc 
